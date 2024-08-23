@@ -1,0 +1,60 @@
+.about-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-image {
+    width: 80%;
+    height: 60vh;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .about-content {
+    max-width: 1180px;
+    margin: 0;
+    margin-left: 150px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 550;
+    line-height: 1.5;
+  }
+
+  .about-content p{
+    margin-top: 16px;
+    margin-left: 70px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .contact-details h3{
+    margin-top: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .contact-details {
+    margin-top: 30px;
+    max-width: 1180px;
+    margin: 0;
+    margin-left: 150px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 550;
+  }
+
+  .contact-details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact-details li {
+    margin-bottom: 10px;
+  }
+
+  .contact-details p,li{
+    margin-top: 16px;
+    margin-left: 70px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
